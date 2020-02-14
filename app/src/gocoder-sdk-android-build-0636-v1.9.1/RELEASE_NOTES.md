@@ -1,0 +1,1 @@
+For important information about each version of the Wowza GoCoder SDK for Android,  including code breaking changes, enhancements, bug fixes, and known issues,  go to the GoCoder SDK for Android release notes at https://www.wowza.com/docs/wowza-gocoder-sdk-release-notes-for-android.
